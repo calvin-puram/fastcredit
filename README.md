@@ -40,7 +40,7 @@ To install and run this project you would need to have listed stack installed:
   To run:
 
 ```sh
-git clone <https://github.com/tobslob/fastcredit.git>
+git clone <https://github.com/calvin-puram/fastcredit.git>
 cd fastcredit
 npm install
 npm start
