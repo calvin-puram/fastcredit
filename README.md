@@ -1,6 +1,6 @@
 # FAST CREDIT
 
-Fast Credit is an online lending platform that provides short term soft loans to individuals. This helps solve problems of financial inclusion as a way to alleviate poverty and empower low income earners.
+Fast Credit is an online lending platform that offers individuals short-term soft loans. This contributes to the resolution of financial inclusion issues as a means of alleviating poverty and empowering low-income earners.
 
 ## Required Features
 
